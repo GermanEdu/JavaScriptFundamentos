@@ -46,8 +46,59 @@
 
 // Boolean aula 
 
-const X = "Oi";
-const Y = "oi";
+//const X = "Oi";
+//const Y = "oi";
 
-console.log(X === Y);
+//onsole.log(X === Y);
 
+// let forma = 'retangulo';
+// let alt = 5;
+// let comp = 7;
+// let area;
+
+
+// if(forma === 'retangulo')
+// {
+//     area = alt * comp;   
+// }
+// else
+// {
+//    area = (alt * comp) / 2
+// }
+
+// console.log(area);
+/* const forma = 'quadrado';
+const alt = 5;
+const comp = 7;
+let area; 
+if(forma === 'triangulo')
+ {
+     area = alt * comp;   
+ }
+ else
+ {
+    area = (alt * comp) / 2
+ }
+
+//const area = alt * comp;
+
+console.log(area); */
+
+//const usuarioLog = true;
+//const contaPaga = false;
+
+/* let numero = 3;
+let texto = "texto";
+let vazio = null; 
+
+
+console.log(typeof numero)
+console.log(typeof texto)
+console.log(typeof vazio) */
+
+const numero = 456;
+const numeroString = "456a";
+
+
+
+console.log(numero + (Number)(numeroString));
